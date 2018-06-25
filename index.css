@@ -1,0 +1,35 @@
+body {
+  background-color: #ccc;
+}
+
+.c {
+  margin:1px;
+  width:19px;
+  height:19px;
+  background:red;
+  position:absolute;
+}
+.d {
+  margin:1px;
+  width:19px;
+  height:19px;
+  background:gray;
+  position:absolute;
+}
+.f {
+  top:0px;
+  left:0px;
+  background:black;
+  position:absolute;
+}
+.e {
+  top:0px;
+  background:#151515;
+  position:absolute;
+}
+.g {
+  width:100px;
+  height:20px;
+  color:white;
+  position:absolute;
+}
